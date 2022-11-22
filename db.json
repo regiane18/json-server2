@@ -137,32 +137,15 @@
         "categoria_id": 1
       }
 
-    ],
-  "categorias": [
-  {
-    "id": 1,
-    "genero": "Aventura"
-  },
 
-  {
-    "id": 2,
-    "genero": "Fantasia"
-  },
 
-  {
-    "id": 3,
-    "genero": "Terror"
-  },
 
-  {
-    "id": 4,
-    "genero": "Comedia "
-  },
 
-  {
-  "id": 5,
-  "genero": "Romance" 
-  }
-  ]
-}  
+
+
+
+
+    ]
+}
+
     
